@@ -29,3 +29,7 @@ ate a doctor’s response based solely on the patient’s symptom description,
 underscoring the importance of developing AI-assisted tools that support
 patients within the medical system, rather than seeking to replace human
 expertise.
+
+
+## To install all libraries in requirements.txt, run
+pip install -r requirements.txt
